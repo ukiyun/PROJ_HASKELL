@@ -1,2 +1,10 @@
-# PROJ_HASKELL
-2nd Project for Functional and Logic Programming Course
+# Haskell Project
+
+## Made by:
+
+| Name                         | UP            | Contribution |
+| ------------                 | ------------  |------------  |
+| Mariana Marujo Conde         | [up202108824] |50%           |
+
+
+## Getting Started
